@@ -3,8 +3,7 @@ title: "Azure Data Factory: On a Budget"
 categories:
   - Blog
 tags:
-  - Azure DevOps
-  - Deployment
+  - Azure Data Factory
 ---
 
 ADF is a powerful cloud ETL tool capable of data transformation at scale. I have learnt (the hard way) that using the tool in certain ways can become very expensive. Here are a couple of cost saving tips I have picked up along the way:
