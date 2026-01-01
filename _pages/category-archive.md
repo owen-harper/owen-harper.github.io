@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Restaurants by Location"
 layout: categories
-permalink: /categories/
+permalink: /locations/
 author_profile: true
 ---
