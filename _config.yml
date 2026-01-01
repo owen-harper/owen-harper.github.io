@@ -62,11 +62,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Owen & Hannah"
-  avatar : "/assets/images/Placeholder.jpg"
-  bio    : ""
-  links:
+# author:
+#   name   : "Owen & Hannah"
+#   avatar : "/assets/images/Placeholder.jpg"
+#   bio    : ""
+#   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
