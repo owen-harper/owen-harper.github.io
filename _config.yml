@@ -8,19 +8,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# bundle exec jekyll serve
+# bundle exec jekyll serve --livereload
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tech Blog
+title: Food in London
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 # twitter_username: username
-github_username: owen-harper
+# github_username: owen-harper
 minimal_mistakes_skin: default
 search: true
 
@@ -39,7 +42,9 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - .vscode/
+  - .github/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -58,19 +63,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Owen Harper"
-  avatar : "/assets/images/Owen.jpg"
-  bio    : "Azure Cloud Architect, Developer and DevOps Evangelist"
+  name   : "Owen & Hannah"
+  avatar : "/assets/images/Placeholder.jpg"
+  bio    : ""
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/owen-harper-2bb0b7137/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/owen-harper"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/owen-harper-2bb0b7137/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/owen-harper"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
