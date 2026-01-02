@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Restaurants by Tag"
 permalink: /tags/
 layout: tags
 author_profile: true
