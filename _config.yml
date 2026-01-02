@@ -64,10 +64,11 @@ plugins:
   - jekyll-include-cache
 
 # author:
-#   name   : "Owen & Hannah"
-#   avatar : "/assets/images/Placeholder.jpg"
-#   bio    : ""
-#   links:
+  # name:
+#   avatar: "/assets/images/.png"
+#   bio: "Exploring London's culinary scene with short reviews, recommendations, and ratings."
+  # location: "London, UK"
+  # links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
@@ -79,7 +80,7 @@ plugins:
     #   url: "https://github.com/owen-harper"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    #   url: "https://www.instagram.com/eatthecityldn"
 
 footer:
   links:
